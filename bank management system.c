@@ -8,7 +8,7 @@ struct date{
     int month,day,year;
 
     };
-struct {
+struct    {
 
     char name[60];
     int acc_no,age;
