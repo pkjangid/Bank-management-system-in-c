@@ -3,5 +3,6 @@ Here is a project we developed as a mini project in the C bank management system
 Pritam kumar 
 jangid
 
-@pkjangid
+@pk
+jangid
 
